@@ -25,14 +25,21 @@ margin-left: 120px;
 }
 
 
-#bal{
+.bal{
 width: 450px;
-color: #5b9cea;
+background-color: #5b9cea;
 float: left;
 }
 
 #jobb{
 width: 450px;
-color: #5b9cea;
+background-color: #5b9cea;
 float: right;
 }
+
+
+table{
+    background-color:#B0D1F1 ;
+
+}
+
